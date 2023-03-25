@@ -9,24 +9,25 @@ We'll build 10 projects in 10 days. We'll be exploring 10 beginner-friendly Java
 Let's go.
 
 What we will build in 10 days:
-Simple Calculator
 
-Random Quote Generator
+1.Simple Calculator
 
-To-do List
+2.Random Quote Generator
 
-Image Slider
+3.To-do List
 
-Stopwatch
+4.Image Slider
 
-Weather App with an API
+5.Stopwatch
 
-Random Number Guessing Game
+6.Weather App with an API
 
-Rock-Paper-Scissors
+7.Random Number Guessing Game
 
-Memory Game
+8.Rock-Paper-Scissors
 
-Countdown Timer.
+9.Memory Game
+
+10.Countdown Timer.
 
 Good Luck.
