@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>To-Do List</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="slider">
+  <div class="slide active-slide" style="background-color: #ff8c00">
+    <span>Image 1</span>
+  </div>
+  <div class="slide" style="background-color: #008080">
+    <span>Image 2</span>
+  </div>
+  <div class="slide" style="background-color: #800080">
+    <span>Image 3</span>
+  </div>
+  <div class="slide" style="background-color: #008000">
+    <span>Image 4</span>
+  </div>
+  <div class="slider-buttons">
+    <button class="prev-button">&lt;</button>
+    <button class="next-button">&gt;</button>
+  </div>
+</div>
+
+	<script src="script.js"></script>
+</body>
+</html>
