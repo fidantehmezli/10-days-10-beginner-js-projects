@@ -10,15 +10,15 @@ Let's go.
 
 What we will build in 10 days:
 
-1.Simple Calculator
+1.[Simple Calculator](https://fidantehmezli.hashnode.dev/10-days-10-javascript-projects-for-beginner-front-end-developers-day-1)
 
-2.Random Quote Generator
+2.[Random Quote Generator](https://fidantehmezli.hashnode.dev/10-days-10-beginner-js-projects-day-2-random-quote-generator)
 
-3.To-do List
+3.[To-do List](https://fidantehmezli.hashnode.dev/day-3-to-do-list-10-days-10-beginner-js-projects)
 
-4.Image Slider
+4.[Image Slider](https://fidantehmezli.hashnode.dev/image-slider-in-js-day-4-10-days-10-beginner-js-projects)
 
-5.Stopwatch
+5.[Stopwatch](https://fidantehmezli.hashnode.dev/stopwatch-in-js-10-days-10-beginner-js-projects-day-5)
 
 6.Weather App with an API
 
